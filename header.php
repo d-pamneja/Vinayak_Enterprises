@@ -11,11 +11,10 @@
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li><a href="index.php" class="active">Home</a></li>
-                        <li><a href="properties.php">Properties</a></li>
-                        <li><a href="property-details.php">Property Details</a></li>
-                        <li><a href="contact.php">Contact Us</a></li>
-                        <li><a href="#"><i class="fa fa-calendar"></i> Schedule a visit</a></li>
+                        <li><a class="nav" href="index.php">Home</a></li>
+                        <li><a class="nav" href="properties.php">Properties</a></li>
+                        <li><a class="nav" href="property-details.php">Property Details</a></li>
+                        <li><a class="nav" href="contact.php">Contact Us</a></li>
                     </ul>
                     <a class='menu-trigger'>
                         <span>Menu</span>
