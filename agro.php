@@ -23,7 +23,6 @@
 </head>
 
 <body>
-
     <!-- Header -->
     <?php include './shared/header.php'; ?>
     <!-- /Header -->
