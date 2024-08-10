@@ -39,6 +39,10 @@
 
     <div class="section properties">
         <div class="container">
+            <div class="section-heading text-center">
+                <h6>| Vinayak Enterprises</h6>
+                <h2>Services</h2>
+            </div>
             <ul class="properties-filter">
                 <li>
                     <a class="is_active" href="#!" data-filter="*">Show All</a>
