@@ -10,60 +10,18 @@
             </div>
             <div class="col-lg-5">
                 <div class="section-heading">
-                    <h6>| Featured</h6>
-                    <h2>Best Appartment &amp; Sea view</h2>
+                    <h2>Welcome to Vinayak Enterprises</h2>
                 </div>
-                <div class="accordion" id="accordionExample">
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="headingOne">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                Best useful links ?
-                            </button>
-                        </h2>
-                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                Get <strong>the best villa</strong> website template in HTML CSS and Bootstrap for your
-                                business. TemplateMo provides you the <a
-                                    href="https://www.google.com/search?q=best+free+css+templates" target="_blank">best
-                                    free CSS templates</a> in the world. Please tell your friends about it.</div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="headingTwo">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                How does this work ?
-                            </button>
-                        </h2>
-                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't eiusmod
-                                tempor incididunt ut labore consectetur <code>adipiscing</code> elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna
-                                aliqua.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="headingThree">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Why is Villa Agency the best ?
-                            </button>
-                        </h2>
-                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't eiusmod
-                                tempor incididunt ut labore consectetur <code>adipiscing</code> elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna
-                                aliqua.
-                            </div>
-                        </div>
-                    </div>
+                <div class="container">
+                    <p>
+                        Vinayak Enterprises embodies the essence of Lord Ganesha, the God of Beginnings, and Master of
+                        Obstacles. Drawing inspiration from his wisdom, intellect, and pioneering spirit, we have grown
+                        from a young, dynamic firm into a multifaceted enterprise. We are proud to state that our strong
+                        financial foundation enables us to function smoothly on a day-to-day basis. Under the visionary
+                        leadership of our Proprietor, Mr. Puneet Kharbanda, a seasoned Cost Accountant, we have
+                        diversified into several sectors and are on the threshold of achieving a significant financial
+                        milestone—touching the Rs. 500 Crore mark.
+                    </p>
                 </div>
             </div>
             <div class="col-lg-3">
