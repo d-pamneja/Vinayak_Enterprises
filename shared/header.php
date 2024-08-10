@@ -11,13 +11,13 @@
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="about.php">About</a></li>
-                        <li><a href="agro.php">Agro</a></li>
-                        <li><a href="pharma.php">Pharma</a></li>
-                        <li><a href="surfacant.php">Surfacant</></li>
-                        <li><a href="export.php">Export</a></li>
-                        <li><a href="contact.php">Contact Us</a></li>
+                        <li><a class="navActive" href="index.php">Home</a></li>
+                        <li><a class="navActive" href="about.php">About</a></li>
+                        <li><a class="navActive" href="agro.php">Agro</a></li>
+                        <li><a class="navActive" href="pharma.php">Pharma</a></li>
+                        <li><a class="navActive" href="surfacant.php">Surfacant</a></li>
+                        <li><a class="navActive" href="export.php">Export</a></li>
+                        <li><a class="navActive" href="contact.php">Contact Us</a></li>
                     </ul>
                     <a class='menu-trigger'>
                         <span>Menu</span>
