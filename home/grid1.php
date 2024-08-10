@@ -28,20 +28,20 @@
                 <div class="info-table">
                     <ul>
                         <li>
-                            <img src="assets/images/info-icon-01.png" alt="" style="max-width: 52px;">
-                            <h4>250 m2<br><span>Total Flat Space</span></h4>
+                            <img src="assets/images/pharma-icon-1.png" alt="" style="max-width: 52px;">
+                            <h4>Pharma<br><span></span></h4>
                         </li>
                         <li>
-                            <img src="assets/images/info-icon-02.png" alt="" style="max-width: 52px;">
-                            <h4>Contract<br><span>Contract Ready</span></h4>
+                            <img src="assets/images/agrochem-icon-1.png" alt="" style="max-width: 52px;">
+                            <h4>Agro Chemical<br><span></span></h4>
                         </li>
                         <li>
-                            <img src="assets/images/info-icon-03.png" alt="" style="max-width: 52px;">
-                            <h4>Payment<br><span>Payment Process</span></h4>
+                            <img src="assets/images/surfacant-icon-1.png" alt="" style="max-width: 52px;">
+                            <h4>Surfactant<br><span></span></h4>
                         </li>
                         <li>
-                            <img src="assets/images/info-icon-04.png" alt="" style="max-width: 52px;">
-                            <h4>Safety<br><span>24/7 Under Control</span></h4>
+                            <img src="assets/images/export-icon-1.png" alt="" style="max-width: 52px;">
+                            <h4>Export<br><span></span></h4>
                         </li>
                     </ul>
                 </div>
