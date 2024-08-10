@@ -14,25 +14,18 @@
 
 
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="assets/css/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/templatemo-villa-agency.css">
-    <link rel="stylesheet" href="assets/css/owl.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="./assets/css/fontawesome.css">
+    <link rel="stylesheet" href="./assets/css/templatemo-villa-agency.css">
+    <link rel="stylesheet" href="./assets/css/owl.css">
+    <link rel="stylesheet" href="./assets/css/animate.css">
     <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
-<!--
-
-TemplateMo 591 villa agency
-
-https://templatemo.com/tm-591-villa-agency
-
--->
-  </head>
+</head>
 
 <body>
 
-  <!-- ***** Header Area Start ***** -->
-  <?php include 'header.php'; ?>
-  <!-- ***** Header Area End ***** -->
+  <!-- Header -->
+  <?php include './shared/header.php'; ?>
+    <!-- /Header -->
 
   <div class="page-heading header-text">
     <div class="container">
@@ -233,25 +226,20 @@ https://templatemo.com/tm-591-villa-agency
     </div>
   </div>
 
-  <footer class="footer-no-gap">
-    <div class="container">
-      <div class="col-lg-12">
-        <p>Copyright © 2048 Villa Agency Co., Ltd. All rights reserved. 
-        
-        Design: <a rel="nofollow" href="https://templatemo.com" target="_blank">TemplateMo</a> Distribution: <a href="https://themewagon.com">ThemeWagon</a></p>
-      </div>
-    </div>
-  </footer>
+  
+    <!-- Footer -->
+  <?php include './shared/footer.php'; ?>
+    <!-- /Footer -->
 
   <!-- Scripts -->
   <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/js/isotope.min.js"></script>
-  <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/counter.js"></script>
-  <script src="assets/js/custom.js"></script>
-  <script src="assets/js/active.js"></script>
+  <script src="./vendor/jquery/jquery.min.js"></script>
+  <script src="./vendor/bootstrap/js/bootstrap.min.js"></script>
+  <script src="./assets/js/isotope.min.js"></script>
+  <script src="./assets/js/owl-carousel.js"></script>
+  <script src="./assets/js/counter.js"></script>
+  <script src="./assets/js/custom.js"></script>
+  <script src="./assets/js/active.js"></script>
 
   </body>
 </html>
