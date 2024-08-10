@@ -129,8 +129,6 @@ li {
     list-style: none;
 }
 
-header,
-nav,
 section,
 article,
 aside,
@@ -526,7 +524,7 @@ Header Style
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
     border: transparent;
-    letter-spacing: 0.25px;
+    letter-spacing: .25px;
 }
 
 .header-area .main-nav .nav li:hover a {

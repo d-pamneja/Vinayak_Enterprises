@@ -6,18 +6,18 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="./index.php" class="logo">
-                        <h1><?php include 'title.php'?></h1>
+                        <h1><?php include('title.php')?></h1>
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li><a class="nav" href="index.php">Home</a></li>
-                        <li><a class="nav" href="about.php">About</a></li>
-                        <li><a class="nav" href="agro.php">Agro</a></li>
-                        <li><a class="nav" href="pharma.php">Pharma</a></li>
-                        <li><a class="nav" href="surfacant.php">Surfacant</a></li>
-                        <li><a class="nav" href="export.php">Export</a></li>
-                        <li><a class="nav" href="contact.php">Contact Us</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About</a></li>
+                        <li><a href="agro.php">Agro</a></li>
+                        <li><a href="pharma.php">Pharma</a></li>
+                        <li><a href="surfacant.php">Surfacant</></li>
+                        <li><a href="export.php">Export</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                     <a class='menu-trigger'>
                         <span>Menu</span>
