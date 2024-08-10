@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
 
-    <title><?php include 'title.php'?></title>
+    <title><?php include('./shared/title.php')?></title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -23,7 +23,7 @@
 
 <body>
     <!-- Header -->
-    <?php include './shared/header.php'; ?>
+    <?php include ('./shared/header.php'); ?>
     <!-- /Header -->
 
     <div class="page-heading header-text">
@@ -234,7 +234,7 @@
     </div>
 
     <!-- Footer -->
-    <?php include './shared/footer.php'; ?>
+    <?php include ('./shared/footer.php'); ?>
     <!-- /Footer -->
 
     <!-- Scripts -->

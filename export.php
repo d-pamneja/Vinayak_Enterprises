@@ -25,7 +25,7 @@
 <body>
 
     <!-- Header -->
-    <?php include './shared/header.php'; ?>
+    <?php include('./shared/header.php'); ?>
     <!-- /Header -->
 
     <div class="page-heading header-text">
@@ -278,7 +278,7 @@
     </div>
 
     <!-- Footer -->
-    <?php include './shared/footer.php'; ?>
+    <?php include ('./shared/footer.php'); ?>
     <!-- /Footer -->
 
     <!-- Scripts -->

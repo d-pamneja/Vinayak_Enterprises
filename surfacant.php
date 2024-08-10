@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
 
-    <title>Villa Agency - Property Detail Page</title>
+    <title><?php include('./shared/title.php')?></title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -20,19 +20,12 @@
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-    <!--
-
-TemplateMo 591 villa agency
-
-https://templatemo.com/tm-591-villa-agency
-
--->
 </head>
 
 <body>
 
     <!-- Header -->
-    <?php include './shared/header.php'; ?>
+    <?php include('./shared/header.php'); ?>
     <!-- /Header -->
 
     <div class="page-heading header-text">
@@ -284,7 +277,7 @@ https://templatemo.com/tm-591-villa-agency
     </div>
 
     <!-- Footer -->
-    <?php include './shared/footer.php'; ?>
+    <?php include('./shared/footer.php'); ?>
     <!-- /Footer -->
 
     <!-- Scripts -->

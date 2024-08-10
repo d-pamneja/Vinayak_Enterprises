@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
 
-    <title><?php include './shared/title.php'?></title>
+    <title><?php include('./shared/title.php')?></title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -24,22 +24,22 @@
 
 <body>
     <!-- Header -->
-    <?php include './shared/header.php'; ?>
+    <?php include('./shared/header.php'); ?>
     <!-- /Header -->
     <!-- Main Slider -->
-    <?php include './home/main_slider.php'; ?>
+    <?php include('./home/main_slider.php'); ?>
     <!-- /Main Slider -->
     <!-- Grid1 -->
-    <?php include './home/grid1.php'; ?>
+    <?php include('./home/grid1.php'); ?>
     <!-- /Grid1 -->
     <!-- Grid3 -->
-    <?php include './home/grid3.php'; ?>
+    <?php include('./home/grid3.php'); ?>
     <!-- /Grid3 -->
     <!-- Grid4 -->
-    <?php include './home/grid4.php'; ?>
+    <?php include('./home/grid4.php'); ?>
     <!-- /Grid4 -->
     <!-- Footer -->
-    <?php include './shared/footer.php'; ?>
+    <?php include('./shared/footer.php'); ?>
     <!-- /Footer -->
 
     <!-- Scripts -->
