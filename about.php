@@ -23,15 +23,15 @@
 
 <body>
     <!-- Header -->
-  <?php include './shared/header.php'; ?>
-  <!-- /Header -->
+    <?php include './shared/header.php'; ?>
+    <!-- /Header -->
 
     <div class="page-heading header-text">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <span class="breadcrumb"><a href="#">Home</a> / About</span>
-                    <h3>Properties</h3>
+                    <h3>About Us</h3>
                 </div>
             </div>
         </div>
@@ -44,13 +44,16 @@
                     <a class="is_active" href="#!" data-filter="*">Show All</a>
                 </li>
                 <li>
-                    <a href="#!" data-filter=".adv">Apartment</a>
+                    <a href="#!" data-filter=".adv">Agro</a>
                 </li>
                 <li>
-                    <a href="#!" data-filter=".str">Villa House</a>
+                    <a href="#!" data-filter=".str">Pharmaceutical</a>
                 </li>
                 <li>
-                    <a href="#!" data-filter=".rac">Penthouse</a>
+                    <a href="#!" data-filter=".rac">Export</a>
+                </li>
+                <li>
+                    <a href="#!" data-filter=".rac">Surfacant</a>
                 </li>
             </ul>
             <div class="row properties-box">
@@ -246,4 +249,5 @@
 
 
 </body>
+
 </html>

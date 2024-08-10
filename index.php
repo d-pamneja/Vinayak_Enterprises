@@ -38,9 +38,6 @@
     <!-- Grid4 -->
     <?php include './home/grid4.php'; ?>
     <!-- /Grid4 -->
-    <!--Grid5 -->
-    <?php include './home/grid5.php'; ?>
-    <!-- /Grid5 -->
     <!-- Footer -->
     <?php include './shared/footer.php'; ?>
     <!-- /Footer -->
