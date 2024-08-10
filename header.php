@@ -14,6 +14,9 @@
                         <li><a class="nav" href="index.php">Home</a></li>
                         <li><a class="nav" href="properties.php">Properties</a></li>
                         <li><a class="nav" href="property-details.php">Property Details</a></li>
+                        <li><a class="nav" href="property-details.php">Property Details</a></li>
+                        <li><a class="nav" href="property-details.php">Property Details</a></li>
+                        <li><a class="nav" href="property-details.php">Property Details</a></li>
                         <li><a class="nav" href="contact.php">Contact Us</a></li>
                     </ul>
                     <a class='menu-trigger'>
