@@ -22,15 +22,15 @@
 </head>
 
 <body>
-    <!-- ***** Header Area Start ***** -->
-    <?php include 'header.php'; ?>
-    <!-- ***** Header Area End ***** -->
+    <!-- Header -->
+  <?php include './shared/header.php'; ?>
+  <!-- /Header -->
 
     <div class="page-heading header-text">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <span class="breadcrumb"><a href="#">Home</a> / Properties</span>
+                    <span class="breadcrumb"><a href="#">Home</a> / About</span>
                     <h3>Properties</h3>
                 </div>
             </div>
@@ -230,16 +230,9 @@
         </div>
     </div>
 
-    <footer>
-        <div class="container">
-            <div class="col-lg-12">
-                <p>Copyright © 2048 Villa Agency Co., Ltd. All rights reserved.
-
-                    Design: <a rel="nofollow" href="https://templatemo.com" target="_blank">TemplateMo</a> Distribution:
-                    <a href="https://themewagon.com">ThemeWagon</a></p>
-            </div>
-        </div>
-    </footer>
+    <!-- Footer -->
+    <?php include './shared/footer.php'; ?>
+    <!-- /Footer -->
 
     <!-- Scripts -->
     <!-- Bootstrap core JavaScript -->
@@ -253,5 +246,4 @@
 
 
 </body>
-
 </html>
