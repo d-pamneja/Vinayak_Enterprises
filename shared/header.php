@@ -13,7 +13,7 @@
                     <ul class="nav">
                         <li><a class="nav" href="index.php">Home</a></li>
                         <li><a class="nav" href="about.php">About</a></li>
-                        <li><a class="nav" href="./services/agro.php">Agro</a></li>
+                        <li><a class="nav" href="agro.php">Agro</a></li>
                         <li><a class="nav" href="pharma.php">Pharma</a></li>
                         <li><a class="nav" href="surfacant.php">Surfacant</a></li>
                         <li><a class="nav" href="export.php">Export</a></li>
