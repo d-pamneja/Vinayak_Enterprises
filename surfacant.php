@@ -32,7 +32,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <span class="breadcrumb"><a href="#">Home</a> / Surfacant</span>
+                    <span class="breadcrumb"><a href="index.php">Home</a> / <a href="surfacant.php">Surfacant</a></span>
                     <h3>Surfacant</h3>
                 </div>
             </div>
@@ -41,109 +41,48 @@
 
     <div class="single-property section">
         <div class="container">
+            <h3>Surfactant Division</h3>
+            <br>
+            The Surfactant Division at Vinayak Enterprises represents the synergy of deep industry expertise, strategic collaboration, and our commitment to innovation. Established in 1998, our division has grown to be a respected leader in the surfactant industry, leveraging our unique combination of technical knowledge and business acumen.
+            <br><br>
             <div class="row">
-                <div class="col-lg-8">
+            <div class="col-lg-6">
                     <div class="main-image">
-                        <img src="assets/images/single-property.jpg" alt="">
-                    </div>
-                    <div class="main-content">
-                        <span class="category">Apparment</span>
-                        <h4>24 New Street Miami, OR 24560</h4>
-                        <p>Get <strong>the best villa agency</strong> HTML CSS Bootstrap Template for your company
-                            website. TemplateMo provides you the <a
-                                href="https://www.google.com/search?q=best+free+css+templates" target="_blank">best free
-                                CSS templates</a> in the world. Please tell your friends about it. Thank you. Cloud
-                            bread kogi bitters pitchfork shoreditch tumblr yr succulents single-origin coffee schlitz
-                            enamel pin you probably haven't heard of them ugh hella.
-
-                            <br><br>When you look for free CSS templates, you can simply type TemplateMo in any search
-                            engine website. In addition, you can type TemplateMo Digital Marketing, TemplateMo Corporate
-                            Layouts, etc. Master cleanse +1 intelligentsia swag post-ironic, slow-carb chambray
-                            knausgaard PBR&B DSA poutine neutra cardigan hoodie pop-up.
-                        </p>
-                    </div>
-                    <div class="accordion" id="accordionExample">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Best useful links ?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't
-                                    eiusmod tempor kinfolk tonx seitan crucifix 3 wolf moon bicycle rights keffiyeh
-                                    snackwave wolf same vice, chillwave vexillologist incididunt ut labore consectetur
-                                    <code>adipiscing</code> elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                    magna aliqua.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    How does this work ?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't
-                                    eiusmod tempor kinfolk tonx seitan crucifix 3 wolf moon bicycle rights keffiyeh
-                                    snackwave wolf same vice, chillwave vexillologist incididunt ut labore consectetur
-                                    <code>adipiscing</code> elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                    magna aliqua.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Why is Villa the best ?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't
-                                    eiusmod tempor kinfolk tonx seitan crucifix 3 wolf moon bicycle rights keffiyeh
-                                    snackwave wolf same vice, chillwave vexillologist incididunt ut labore consectetur
-                                    <code>adipiscing</code> elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                    magna aliqua.
-                                </div>
-                            </div>
-                        </div>
+                        <img src="assets/images/surfacant-page-banner-2.jpeg" alt="" style="width : 700px; height: 570px;">
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="info-table">
-                        <ul>
-                            <li>
-                                <img src="assets/images/info-icon-01.png" alt="" style="max-width: 52px;">
-                                <h4>450 m2<br><span>Total Flat Space</span></h4>
-                            </li>
-                            <li>
-                                <img src="assets/images/info-icon-02.png" alt="" style="max-width: 52px;">
-                                <h4>Contract<br><span>Contract Ready</span></h4>
-                            </li>
-                            <li>
-                                <img src="assets/images/info-icon-03.png" alt="" style="max-width: 52px;">
-                                <h4>Payment<br><span>Payment Process</span></h4>
-                            </li>
-                            <li>
-                                <img src="assets/images/info-icon-04.png" alt="" style="max-width: 52px;">
-                                <h4>Safety<br><span>24/7 Under Control</span></h4>
-                            </li>
-                        </ul>
-                    </div>
+                <div class="col-lg-6">
+                  <div class="info-table">
+                    <ul>
+                        <li>
+                            <img src="assets/images/leader-icon.png" alt="" style="max-width: 52px;">
+                            <h4>Industry Leadership & Expertise<br><span>Leveraging decades of experience to provide innovative surfactant solutions and unmatched customer service, establishing ourselves as a trusted partner in the industry.</span></h4>
+                        </li>
+                        <li>
+                            <img src="assets/images/award-icon.png" alt="" style="max-width: 52px;">
+                            <h4>Dedicated & Award-Winning Team<br><span>Our passionate and highly skilled team, recognized for their expertise, is committed to delivering exceptional results.</span></h4>
+                        </li>
+                        <li>
+                            <img src="assets/images/growth-icon.png" alt="" style="max-width: 52px;">
+                            <h4>Focus on Innovation & Future Growth<br><span>We embrace a forward-thinking approach, constantly adapting to market trends and investing in research and development.</span></h4>
+                        </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="main-content">
+                  <br><br>
+                  Our operations, particularly concentrated in North India, a region dominant in agriculture, allow us to reach a broad and varied customer base. Our dedicated team, led by Mr. Ankit Gulati, a graduate from NIT, has made significant strides in marketing and selling Agro Surfactants to the industry. Their untiring efforts have resulted in numerous awards and recognitions over the years, further establishing our credibility in the marketplace.
+                  <br><br>
+                  Our journey has been enriched by synergistic relationships with key industry players, which have served to enhance our capabilities and reach. At the heart of these relationships lies our commitment to continuous improvement and forward-thinking. We believe that the dynamism of the surfactant industry necessitates a constant revaluation of strategies and a proactive approach to collaborations.
+                  <br><br>
+                  Today, we are at a pivotal point where exciting new opportunities are emerging. With our strong market presence, in-depth industry knowledge, and strategic relationships, we are perfectly positioned to capitalize on these opportunities.
+                  <br><br>
+                  At Vinayak Enterprises, we remain committed to our goal of delivering the highest quality surfactants to our customers. As we continue to navigate the dynamic landscape of this industry, we look forward to a future filled with further success, innovation, and growth. Our Surfactant Division is not just a part of our business; it's a testament to our vision, resilience, and the value we provide to our customers and the industry as a whole.
                 </div>
             </div>
         </div>
     </div>
+    
     <!-- Footer -->
     <?php include('./shared/footer.php'); ?>
     <!-- /Footer -->

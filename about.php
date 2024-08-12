@@ -30,210 +30,92 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <span class="breadcrumb"><a href="#">Home</a> / About</span>
+                    <span class="breadcrumb"><a href="index.php">Home</a> / <a href="about.php">About</a></span>
                     <h3>About Us</h3>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="section properties">
+    <div class="col-lg-12">
+        <br><br>
         <div class="container">
-            <div class="section-heading text-center">
-                <h6>| Vinayak Enterprises</h6>
-                <h2>Services</h2>
-            </div>
-            <ul class="properties-filter">
-                <li>
-                    <a class="is_active" href="#!" data-filter="*">Show All</a>
-                </li>
-                <li>
-                    <a href="#!" data-filter=".adv">Agro</a>
-                </li>
-                <li>
-                    <a href="#!" data-filter=".str">Pharmaceutical</a>
-                </li>
-                <li>
-                    <a href="#!" data-filter=".rac">Export</a>
-                </li>
-                <li>
-                    <a href="#!" data-filter=".rac">Surfacant</a>
-                </li>
-            </ul>
-            <div class="row properties-box">
-                <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv">
-                    <div class="item">
-                        <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
-                        <span class="category">Luxury Villa</span>
-                        <h6>$2.264.000</h6>
-                        <h4><a href="property-details.html">18 Old Street Miami, OR 97219</a></h4>
-                        <ul>
-                            <li>Bedrooms: <span>8</span></li>
-                            <li>Bathrooms: <span>8</span></li>
-                            <li>Area: <span>545m2</span></li>
-                            <li>Floor: <span>3</span></li>
-                            <li>Parking: <span>6 spots</span></li>
-                        </ul>
-                        <div class="main-button">
-                            <a href="property-details.html">Schedule a visit</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
-                    <div class="item">
-                        <a href="property-details.html"><img src="assets/images/property-02.jpg" alt=""></a>
-                        <span class="category">Luxury Villa</span>
-                        <h6>$1.180.000</h6>
-                        <h4><a href="property-details.html">54 New Street Florida, OR 27001</a></h4>
-                        <ul>
-                            <li>Bedrooms: <span>6</span></li>
-                            <li>Bathrooms: <span>5</span></li>
-                            <li>Area: <span>450m2</span></li>
-                            <li>Floor: <span>3</span></li>
-                            <li>Parking: <span>8 spots</span></li>
-                        </ul>
-                        <div class="main-button">
-                            <a href="property-details.html">Schedule a visit</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 adv rac">
-                    <div class="item">
-                        <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
-                        <span class="category">Luxury Villa</span>
-                        <h6>$1.460.000</h6>
-                        <h4><a href="property-details.html">26 Mid Street Portland, OR 38540</a></h4>
-                        <ul>
-                            <li>Bedrooms: <span>5</span></li>
-                            <li>Bathrooms: <span>4</span></li>
-                            <li>Area: <span>225m2</span></li>
-                            <li>Floor: <span>3</span></li>
-                            <li>Parking: <span>10 spots</span></li>
-                        </ul>
-                        <div class="main-button">
-                            <a href="property-details.html">Schedule a visit</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 str">
-                    <div class="item">
-                        <a href="property-details.html"><img src="assets/images/property-04.jpg" alt=""></a>
-                        <span class="category">Apartment</span>
-                        <h6>$584.500</h6>
-                        <h4><a href="property-details.html">12 Hope Street Portland, OR 12650</a></h4>
-                        <ul>
-                            <li>Bedrooms: <span>4</span></li>
-                            <li>Bathrooms: <span>3</span></li>
-                            <li>Area: <span>125m2</span></li>
-                            <li>Floor: <span>25th</span></li>
-                            <li>Parking: <span>2 cars</span></li>
-                        </ul>
-                        <div class="main-button">
-                            <a href="property-details.html">Schedule a visit</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac str">
-                    <div class="item">
-                        <a href="property-details.html"><img src="assets/images/property-05.jpg" alt=""></a>
-                        <span class="category">Penthouse</span>
-                        <h6>$925.600</h6>
-                        <h4><a href="property-details.html">34 Hope Street Portland, OR 42680</a></h4>
-                        <ul>
-                            <li>Bedrooms: <span>4</span></li>
-                            <li>Bathrooms: <span>4</span></li>
-                            <li>Area: <span>180m2</span></li>
-                            <li>Floor: <span>38th</span></li>
-                            <li>Parking: <span>2 cars</span></li>
-                        </ul>
-                        <div class="main-button">
-                            <a href="property-details.html">Schedule a visit</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac adv">
-                    <div class="item">
-                        <a href="property-details.html"><img src="assets/images/property-06.jpg" alt=""></a>
-                        <span class="category">Modern Condo</span>
-                        <h6>$450.000</h6>
-                        <h4><a href="property-details.html">22 Hope Street Portland, OR 16540</a></h4>
-                        <ul>
-                            <li>Bedrooms: <span>3</span></li>
-                            <li>Bathrooms: <span>2</span></li>
-                            <li>Area: <span>165m2</span></li>
-                            <li>Floor: <span>26th</span></li>
-                            <li>Parking: <span>3 cars</span></li>
-                        </ul>
-                        <div class="main-button">
-                            <a href="property-details.html">Schedule a visit</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac str">
-                    <div class="item">
-                        <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
-                        <span class="category">Luxury Villa</span>
-                        <h6>$980.000</h6>
-                        <h4><a href="property-details.html">14 Mid Street Miami, OR 36450</a></h4>
-                        <ul>
-                            <li>Bedrooms: <span>8</span></li>
-                            <li>Bathrooms: <span>8</span></li>
-                            <li>Area: <span>550m2</span></li>
-                            <li>Floor: <span>3</span></li>
-                            <li>Parking: <span>12 spots</span></li>
-                        </ul>
-                        <div class="main-button">
-                            <a href="property-details.html">Schedule a visit</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac adv">
-                    <div class="item">
-                        <a href="property-details.html"><img src="assets/images/property-02.jpg" alt=""></a>
-                        <span class="category">Luxury Villa</span>
-                        <h6>$1.520.000</h6>
-                        <h4><a href="property-details.html">26 Old Street Miami, OR 12870</a></h4>
-                        <ul>
-                            <li>Bedrooms: <span>12</span></li>
-                            <li>Bathrooms: <span>15</span></li>
-                            <li>Area: <span>380m2</span></li>
-                            <li>Floor: <span>3</span></li>
-                            <li>Parking: <span>14 spots</span></li>
-                        </ul>
-                        <div class="main-button">
-                            <a href="property-details.html">Schedule a visit</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 rac adv">
-                    <div class="item">
-                        <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
-                        <span class="category">Luxury Villa</span>
-                        <h6>$3.145.000</h6>
-                        <h4><a href="property-details.html">34 New Street Miami, OR 24650</a></h4>
-                        <ul>
-                            <li>Bedrooms: <span>10</span></li>
-                            <li>Bathrooms: <span>12</span></li>
-                            <li>Area: <span>860m2</span></li>
-                            <li>Floor: <span>3</span></li>
-                            <li>Parking: <span>10 spots</span></li>
-                        </ul>
-                        <div class="main-button">
-                            <a href="property-details.html">Schedule a visit</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <h3>Our History</h3>
+            <br><br>
+            Vinayak Enterprises embodies the essence of Lord Ganesha, the God of Beginnings, and Master of Obstacles. Drawing inspiration from his wisdom, intellect, and pioneering spirit, we have grown from a young, dynamic firm into a multifaceted enterprise. We are proud to state that our strong financial foundation enables us to function smoothly on a day-to-day basis. Under the visionary leadership of our Proprietor, Mr. Puneet Kharbanda, a seasoned Cost Accountant, we have diversified into several sectors and are on the threshold of achieving a significant financial milestone—touching the Rs. 500 Crore mark.
+        </div>
+    </div>
+
+    <div class="fun-facts">
+        <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <ul class="pagination">
-                        <li><a href="#">1</a></li>
-                        <li><a class="is_active" href="#">2</a></li>
-                        <li><a href="#">3</a></li>
-                        <li><a href="#">>></a></li>
-                    </ul>
+                    <div class="wrapper">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="counter">
+                                    <h2 class="timer count-title count-number" data-to="100" data-speed="1000"></h2>
+                                    <p class="count-text ">Employees</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="counter">
+                                    <h2 class="timer count-title count-number" data-to="30" data-speed="1000"></h2>
+                                    <p class="count-text ">Years<br>Experience</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="counter">
+                                    <h2 class="timer count-title count-number" data-to="200" data-speed="1000"></h2>
+                                    <p class="count-text ">Regulatory<br>Approvals</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <div class="fun-facts">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="wrapper">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="counter">
+                                    <h2 class="timer count-title count-number" data-to="300" data-speed="1000"></h2>
+                                    <p class="count-text ">Clients<br>Served</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="counter">
+                                    <h2 class="timer count-title count-number" data-to="11" data-speed="1000"></h2>
+                                    <p class="count-text ">Countries<br>Network</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="counter">
+                                    <h2 class="timer count-title count-number" data-to="25" data-speed="1000"></h2>
+                                    <p class="count-text ">Awards<br>Won</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br><br>
+
+    <div class="col-lg-12">
+        <br><br>
+        <div class="container">
+            <h3>Our Team</h3>
+            <br><br>
+            Our team is the driving force behind our success. Their dedication, expertise, and commitment to our mission make us a leading force in the pharmaceutical industry.
         </div>
     </div>
 

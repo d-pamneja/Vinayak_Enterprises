@@ -17,6 +17,7 @@
                         <li><a class="navActive" href="pharma.php">Pharma</a></li>
                         <li><a class="navActive" href="surfacant.php">Surfacant</a></li>
                         <li><a class="navActive" href="export.php">Export</a></li>
+                        <li><a class="navActive" href="career.php">Careers</a></li>
                         <li><a class="navActive" href="contact.php">Contact Us</a></li>
                     </ul>
                     <a class='menu-trigger'>
