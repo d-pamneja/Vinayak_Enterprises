@@ -33,8 +33,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <span class="breadcrumb"><a href="#">Home</a> / Single Property</span>
-                    <h3>Single Property</h3>
+                    <span class="breadcrumb"><a href="index.php">Home</a> / <a href="pharma.php">Pharma</a></span>
+                    <h3>Pharma</h3>
                 </div>
             </div>
         </div>
@@ -42,106 +42,117 @@
 
     <div class="single-property section">
         <div class="container">
+            <p>
+            <h3>Pharmaceutical Division</h3>
+            <br>
+            Our division is formed by a team of dedicated and dynamic professionals, has been functioning for over two decades. We have built an extensive distribution network that caters to the medicinal needs of a wide range of entities, from chemist shops and doctors to semi- wholesalers and large hospitals.
+            <br><br>Our team, backed by a panel of consultants and advisors with over 30 years of experience, manages the distribution of medicines to approximately 2500 - 3000 chemist shops, 400 doctors, 300 semi-wholesalers, 40 nursing homes, and 10 large hospitals across 108 markets on a daily and weekly basis.
+            <br><br>
             <div class="row">
-                <div class="col-lg-8">
+                <div class="col-lg-6">
                     <div class="main-image">
-                        <img src="assets/images/single-property.jpg" alt="">
-                    </div>
-                    <div class="main-content">
-                        <span class="category">Apparment</span>
-                        <h4>24 New Street Miami, OR 24560</h4>
-                        <p>Get <strong>the best villa agency</strong> HTML CSS Bootstrap Template for your company
-                            website. TemplateMo provides you the <a
-                                href="https://www.google.com/search?q=best+free+css+templates" target="_blank">best free
-                                CSS templates</a> in the world. Please tell your friends about it. Thank you. Cloud
-                            bread kogi bitters pitchfork shoreditch tumblr yr succulents single-origin coffee schlitz
-                            enamel pin you probably haven't heard of them ugh hella.
-
-                            <br><br>When you look for free CSS templates, you can simply type TemplateMo in any search
-                            engine website. In addition, you can type TemplateMo Digital Marketing, TemplateMo Corporate
-                            Layouts, etc. Master cleanse +1 intelligentsia swag post-ironic, slow-carb chambray
-                            knausgaard PBR&B DSA poutine neutra cardigan hoodie pop-up.
-                        </p>
-                    </div>
-                    <div class="accordion" id="accordionExample">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Best useful links ?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't
-                                    eiusmod tempor kinfolk tonx seitan crucifix 3 wolf moon bicycle rights keffiyeh
-                                    snackwave wolf same vice, chillwave vexillologist incididunt ut labore consectetur
-                                    <code>adipiscing</code> elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                    magna aliqua.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    How does this work ?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't
-                                    eiusmod tempor kinfolk tonx seitan crucifix 3 wolf moon bicycle rights keffiyeh
-                                    snackwave wolf same vice, chillwave vexillologist incididunt ut labore consectetur
-                                    <code>adipiscing</code> elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                    magna aliqua.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Why is Villa the best ?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't
-                                    eiusmod tempor kinfolk tonx seitan crucifix 3 wolf moon bicycle rights keffiyeh
-                                    snackwave wolf same vice, chillwave vexillologist incididunt ut labore consectetur
-                                    <code>adipiscing</code> elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                    magna aliqua.
-                                </div>
-                            </div>
-                        </div>
+                        <img src="assets/images/pharma-page-banner-1.jpeg" alt="" style="width : 700px; height: 570px;">
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="info-table">
-                        <ul>
+                <div class="col-lg-6">
+                  <div class="info-table">
+                    <ul>
+                        <li>
+                            <img src="assets/images/wholesale-icon.png" alt="" style="max-width: 52px;">
+                            <h4>Wholesale & Retail Distribution<br><span>Efficiently reaching 3,000+ chemist shops, hospitals, and more across 108 markets, ensuring widespread availability of essential medications.</span></h4>
+                        </li>
+                        <li>
+                            <img src="assets/images/inventory_icon.png" alt="" style="max-width: 52px;">
+                            <h4>Inventory Management<br><span>LAN-oriented, computerized godowns with 10,000+ sq ft of specialized storage, guaranteeing secure and efficient inventory management.</span></h4>
+                        </li>
+                        <li>
+                            <img src="assets/images/business-icon.png" alt="" style="max-width: 52px;">
+                            <h4>Institutional Business & Collaboration<br><span>Partnering with 35+ top pharma companies to cater to the unique needs of hospitals, institutions, and government bodies.</span></h4>
+                        </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="main-content">
+                        <br><br>
+                        <h3>Godown & Storage</h3>
+                        <br>
+                        Our storage facilities are LAN oriented, computerized godowns with ample space (approximately 10,000 sq ft) spread across various locations. They are designed to serve the community in the best and fastest possible way while ensuring a healthier tomorrow.
+                        We have established specific storage facilities for certain drugs, medicines, and injectables, including cold storage and air-conditioned facilities to meet the specific temperature requirements of certain products. We adhere to the FIFO (First In, First Out) method for inventory management to ensure optimal distribution and utilization of product.
+                        <br><br>
+                        <h3>Portfolio</h3>
+                        <br>
+                          Our portfolio boasts an impressive range of approximately 2500 - 3000 chemist shops, 400 doctors, 300 semi-wholesalers, 40 nursing homes, and 10 large hospitals across 108 markets. We serve these entities on a daily or weekly basis, ensuring they have the medications they need when they need them.
+                          In addition to this, our institutional business includes collaborations with prime organizations such as:
+                          <br><br>
+                          <ul>
                             <li>
-                                <img src="assets/images/info-icon-01.png" alt="" style="max-width: 52px;">
-                                <h4>450 m2<br><span>Total Flat Space</span></h4>
+                              <strong>Base Hospital</strong>
                             </li>
                             <li>
-                                <img src="assets/images/info-icon-02.png" alt="" style="max-width: 52px;">
-                                <h4>Contract<br><span>Contract Ready</span></h4>
+                              <strong>Border Security Force</strong>
                             </li>
                             <li>
-                                <img src="assets/images/info-icon-03.png" alt="" style="max-width: 52px;">
-                                <h4>Payment<br><span>Payment Process</span></h4>
+                              <strong>Armed Force Clinic</strong>
                             </li>
                             <li>
-                                <img src="assets/images/info-icon-04.png" alt="" style="max-width: 52px;">
-                                <h4>Safety<br><span>24/7 Under Control</span></h4>
+                              <strong>Indo-Tibet Border Police</strong>
                             </li>
+                            <li>
+                              <strong>Air India</strong>
+                            </li>
+                            <li>
+                              <strong>N.T.P.C.</strong>
+                            </li>
+                            <li>
+                              <strong>Delhi University</strong>
+                            </li>
+                            <li>
+                              <strong>B.H.E.L.</strong>
+                            </li>
+                          </ul>
+                        <br><br>
+                        <h3>Partners</h3>
+                        <br>
+                          We are proud to be associated with approximately 35 of the topmost Indian and multinational companies in the pharmaceutical industry. Our partnerships are a testament to our commitment to quality and service. The list of our esteemed partners include:
+                          <br><br>
+                          <ul>
+                            <li><strong>Abbott India Limited</strong></li>
+                            <li><strong>Alcon Laboratories India</strong></li>
+                            <li><strong>Alembic Pharmaceuticals Ltd</strong></li>
+                            <li><strong>Alkem Laboratories</strong></li>
+                            <li><strong>Allergan India</strong></li>
+                            <li><strong>Aristo</strong></li>
+                            <li><strong>Astra Zeneca</strong></li>
+                            <li><strong>Bayer India Ltd</strong></li>
+                            <li><strong>Cadila Pharmaceuticals Ltd</strong></li>
+                            <li><strong>Cipla Ltd</strong></li>
+                            <li><strong>Crosslands Ranbaxy Laboratories Ltd</strong></li>
+                            <li><strong>Dr. Reddy's Laboratories Ltd</strong></li>
+                            <li><strong>FDC Limited</strong></li>
+                            <li><strong>Fulford India Ltd.</strong></li>
+                            <li><strong>Galderma India</strong></li>
+                            <li><strong>Glaxo India Ltd</strong></li>
+                            <li><strong>Glenmark Pharma Ltd</strong></li>
+                            <li><strong>Intas Pharmaceuticals Ltd</strong></li>
+                            <li><strong>Ipca Laboratories Ltd</strong></li>
+                            <li><strong>Lupin Ltd</strong></li>
+                            <li><strong>Macleods Pharmaceuticals Ltd</strong></li>
+                            <li><strong>Mankind Pharma</strong></li>
+                            <li><strong>Merck India</strong></li>
+                            <li><strong>MSD Pharmaceuticals India</strong></li>
+                            <li><strong>Novartis India Ltd</strong></li>
+                            <li><strong>Organon India Ltd</strong></li>
+                            <li><strong>Pfizer India Ltd</strong></li>
+                            <li><strong>Panacea Bio Tech Ltd</strong></li>
+                            <li><strong>Serdia Pharmaceuticals India</strong></li>
+                            <li><strong>Systopic Laboratories</strong></li>
+                            <li><strong>Unichem Laboratories</strong></li>
+                            <li><strong>Wockhardt Ltd</strong></li>
+                            <li><strong>Zydus Cadila Ltd</strong></li>
                         </ul>
+
+                      </p>
                     </div>
-                </div>
             </div>
         </div>
     </div>

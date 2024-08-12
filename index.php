@@ -35,9 +35,6 @@
     <!-- Grid3 -->
     <?php include('./home/grid3.php'); ?>
     <!-- /Grid3 -->
-    <!-- Grid4 -->
-    <?php include('./home/grid4.php'); ?>
-    <!-- /Grid4 -->
     <!-- Footer -->
     <?php include('./shared/footer.php'); ?>
     <!-- /Footer -->
