@@ -128,6 +128,32 @@
     <script src="assets/js/counter.js"></script>
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/active.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#contact-form').on('submit', function(event) {
+                event.preventDefault(); // Prevent the default form submission
+
+                var formData = $(this).serialize(); // Serialize form data
+
+                $.ajax({
+                    type: 'POST',
+                    url: 'sendQuery.php', // Your PHP script to handle the request
+                    data: formData,
+                    success: function(response) {
+                        // Display the server response in the #response div
+                        $('#response').html('<div class="success">' + response + '</div>')
+                            .show();
+
+                    },
+                    error: function(xhr, status, error) {
+                        // Display an error message if something went wrong
+                        $('#response').html('<div class="error">An error occurred: ' + error +
+                            '</div>').show();
+                    }
+                });
+            });
+        });
+    </script>
 
 </body>
 
