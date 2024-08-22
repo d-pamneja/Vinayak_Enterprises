@@ -26,7 +26,7 @@
     <?php include ('./shared/header.php'); ?>
     <!-- /Header -->
 
-    <div class="page-heading header-text">
+    <div class="page-heading-main header-text">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -54,19 +54,19 @@
                         <div class="row">
                             <div class="col-lg-4">
                                 <div class="counter">
-                                    <h2 class="timer count-title count-number" data-to="100" data-speed="1000"></h2>
+                                    <h2 class="timer count-title count-number" data-to="100" data-speed="1000"></h2><span class="plus-sign">+</span>
                                     <p class="count-text ">Employees</p>
                                 </div>
                             </div>
                             <div class="col-lg-4">
                                 <div class="counter">
-                                    <h2 class="timer count-title count-number" data-to="30" data-speed="1000"></h2>
+                                    <h2 class="timer count-title count-number" data-to="30" data-speed="1000"></h2><span class="plus-sign">+</span>
                                     <p class="count-text ">Years<br>Experience</p>
                                 </div>
                             </div>
                             <div class="col-lg-4">
                                 <div class="counter">
-                                    <h2 class="timer count-title count-number" data-to="200" data-speed="1000"></h2>
+                                    <h2 class="timer count-title count-number" data-to="200" data-speed="1000"></h2><span class="plus-sign">+</span>
                                     <p class="count-text ">Regulatory<br>Approvals</p>
                                 </div>
                             </div>
@@ -85,19 +85,19 @@
                         <div class="row">
                             <div class="col-lg-4">
                                 <div class="counter">
-                                    <h2 class="timer count-title count-number" data-to="300" data-speed="1000"></h2>
+                                    <h2 class="timer count-title count-number" data-to="300" data-speed="1000"></h2><span class="plus-sign">+</span>
                                     <p class="count-text ">Clients<br>Served</p>
                                 </div>
                             </div>
                             <div class="col-lg-4">
                                 <div class="counter">
-                                    <h2 class="timer count-title count-number" data-to="11" data-speed="1000"></h2>
+                                    <h2 class="timer count-title count-number" data-to="11" data-speed="1000"></h2><span class="plus-sign">+</span>
                                     <p class="count-text ">Countries<br>Network</p>
                                 </div>
                             </div>
                             <div class="col-lg-4">
                                 <div class="counter">
-                                    <h2 class="timer count-title count-number" data-to="25" data-speed="1000"></h2>
+                                    <h2 class="timer count-title count-number" data-to="25" data-speed="1000"></h2><span class="plus-sign">+</span>
                                     <p class="count-text ">Awards<br>Won</p>
                                 </div>
                             </div>
@@ -117,7 +117,141 @@
             <br><br>
             Our team is the driving force behind our success. Their dedication, expertise, and commitment to our mission make us a leading force in the pharmaceutical industry.
         </div>
+        <br><br>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/puneet.jpeg" alt="Puneet Kharbanda">
+                    </div>
+                    <h5>Mr. Puneet Kharbanda</h5>
+                    <h6>Proprietor</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/shalini.jpeg" alt="Shalini Kharbanda">
+                    </div>
+                    <h5>Ms. Shalini Kharbanda</h5>
+                    <h6>Head - Admin & HR</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/MK.png" alt="Mr. Maurayan Kharbanda">
+                    </div>
+                    <h5>Mr. Maurayan Kharbanda</h5>
+                    <h6>Director, Vinayak Multinationals AUS Pty. Ltd.</h6>
+                </div>
+            </div>
+            <br><br>
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/chahuan.jpeg" alt="Mr. S.S.Chauhan">
+                    </div>
+                    <h5>Mr. S.S.Chauhan</h5>
+                    <h6>Head - Finance</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/atul.jpeg" alt="Mr. Atul Arora">
+                    </div>
+                    <h5>Mr. Atul Arora</h5>
+                    <h6>Head - Purchase</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/ishita.png" alt="Ms. Itisha Chawla">
+                    </div>
+                    <h5>Ms. Itisha Chawla</h5>
+                    <h6>Head, Senior Head ICT Business Analyst</h6>
+                </div>
+            </div>
+            <br><br>
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/sachinArora.jpeg" alt="Mr. Sachin Arora">
+                    </div>
+                    <h5>Mr. Sachin Arora</h5>
+                    <h6>Head, Accounts & H.R.</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/hina.jpeg" alt="Ms. Hina">
+                    </div>
+                    <h5>Ms. Hina</h5>
+                    <h6>Head, Marketing</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/ppSingh.jpeg" alt="Mr. P.P. Singh">
+                    </div>
+                    <h5>Mr. P.P. Singh</h5>
+                    <h6>Head, Sales</h6>
+                </div>
+            </div>
+            <br><br>
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/makol.jpeg" alt="Mr. Ashwani Makol">
+                    </div>
+                    <h5>Mr. Ashwani Makol</h5>
+                    <h6>Head, Godowns</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/deepali.jpeg" alt="Ms. Deepali">
+                    </div>
+                    <h5>Ms. Deepali</h5>
+                    <h6>Head, Debtor Collection</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/sonia.jpeg" alt="Ms. Sonia">
+                    </div>
+                    <h5>Ms. Sonia</h5>
+                    <h6>Head, Purchase & Sale Return</h6>
+                </div>
+            </div>
+            <br><br>
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/deepakArora.jpeg" alt="Mr. Deepak Arora">
+                    </div>
+                    <h5>Mr. Deepak Arora</h5>
+                    <h6>Head, E&B</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/vinaySaini.jpeg" alt="Mr. Vinay Saini">
+                    </div>
+                    <h5>Mr. Vinay Saini</h5>
+                    <h6>In-charge, Logistics</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/mamta.jpeg" alt="Ms. Mamta">
+                    </div>
+                    <h5>Ms. Mamta</h5>
+                    <h6>In-charge, Claims settlement</h6>
+                </div>
+            </div>
+            <br><br>
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="item">
+                        <img src="assets/images/harpreet.jpeg" alt="Ms. Harpreet">
+                    </div>
+                    <h5>Ms. Harpreet</h5>
+                    <h6>In-charge, Billing</h6>
+                </div>
+            </div>
+            
+        </div>
     </div>
+
 
     <!-- Footer -->
     <?php include ('./shared/footer.php'); ?>

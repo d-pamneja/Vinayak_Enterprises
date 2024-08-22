@@ -3,9 +3,8 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="left-image">
-                    <img src="assets/images/featured.jpg" alt="">
-                    <a href="property-details.html"><img src="assets/images/featured-icon.png" alt=""
-                            style="max-width: 60px; padding: 0px;"></a>
+                    <img src="assets/images/ganesha.jpeg" alt="">
+                    
                 </div>
             </div>
             <div class="col-lg-5">

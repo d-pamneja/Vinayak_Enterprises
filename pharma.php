@@ -29,7 +29,7 @@
     <?php include('./shared/header.php'); ?>
     <!-- /Header -->
 
-    <div class="page-heading header-text">
+    <div class="page-heading-pharma header-text">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -51,7 +51,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="main-image">
-                        <img src="assets/images/pharma-page-banner-1.jpeg" alt="" style="width : 700px; height: 570px;">
+                        <img src="assets/images/pharma-page-banner-2.jpeg" alt="" style="width : 700px; height: 570px;">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -79,12 +79,30 @@
                         Our storage facilities are LAN oriented, computerized godowns with ample space (approximately 10,000 sq ft) spread across various locations. They are designed to serve the community in the best and fastest possible way while ensuring a healthier tomorrow.
                         We have established specific storage facilities for certain drugs, medicines, and injectables, including cold storage and air-conditioned facilities to meet the specific temperature requirements of certain products. We adhere to the FIFO (First In, First Out) method for inventory management to ensure optimal distribution and utilization of product.
                         <br><br>
+                        <div class="row">
+                          <div class="col-lg-4 col-md-6">
+                            <div class="item">
+                              <img src="assets/images/godown1.jpeg" alt="">
+                            </div>
+                          </div>
+                          <div class="col-lg-4 col-md-6">
+                            <div class="item">
+                              <img src="assets/images/godown2.jpeg" alt="">
+                            </div>
+                          </div>
+                          <div class="col-lg-4 col-md-6">
+                            <div class="item">
+                              <img src="assets/images/godown3.jpeg" alt="">
+                            </div>
+                          </div>
+                        </div>
+                        <br><br>
                         <h3>Portfolio</h3>
                         <br>
                           Our portfolio boasts an impressive range of approximately 2500 - 3000 chemist shops, 400 doctors, 300 semi-wholesalers, 40 nursing homes, and 10 large hospitals across 108 markets. We serve these entities on a daily or weekly basis, ensuring they have the medications they need when they need them.
                           In addition to this, our institutional business includes collaborations with prime organizations such as:
                           <br><br>
-                          <ul>
+                          <ul class="custom-bullet-list">
                             <li>
                               <strong>Base Hospital</strong>
                             </li>
@@ -115,42 +133,105 @@
                         <br>
                           We are proud to be associated with approximately 35 of the topmost Indian and multinational companies in the pharmaceutical industry. Our partnerships are a testament to our commitment to quality and service. The list of our esteemed partners include:
                           <br><br>
-                          <ul>
-                            <li><strong>Abbott India Limited</strong></li>
-                            <li><strong>Alcon Laboratories India</strong></li>
-                            <li><strong>Alembic Pharmaceuticals Ltd</strong></li>
-                            <li><strong>Alkem Laboratories</strong></li>
-                            <li><strong>Allergan India</strong></li>
-                            <li><strong>Aristo</strong></li>
-                            <li><strong>Astra Zeneca</strong></li>
-                            <li><strong>Bayer India Ltd</strong></li>
-                            <li><strong>Cadila Pharmaceuticals Ltd</strong></li>
-                            <li><strong>Cipla Ltd</strong></li>
-                            <li><strong>Crosslands Ranbaxy Laboratories Ltd</strong></li>
-                            <li><strong>Dr. Reddy's Laboratories Ltd</strong></li>
-                            <li><strong>FDC Limited</strong></li>
-                            <li><strong>Fulford India Ltd.</strong></li>
-                            <li><strong>Galderma India</strong></li>
-                            <li><strong>Glaxo India Ltd</strong></li>
-                            <li><strong>Glenmark Pharma Ltd</strong></li>
-                            <li><strong>Intas Pharmaceuticals Ltd</strong></li>
-                            <li><strong>Ipca Laboratories Ltd</strong></li>
-                            <li><strong>Lupin Ltd</strong></li>
-                            <li><strong>Macleods Pharmaceuticals Ltd</strong></li>
-                            <li><strong>Mankind Pharma</strong></li>
-                            <li><strong>Merck India</strong></li>
-                            <li><strong>MSD Pharmaceuticals India</strong></li>
-                            <li><strong>Novartis India Ltd</strong></li>
-                            <li><strong>Organon India Ltd</strong></li>
-                            <li><strong>Pfizer India Ltd</strong></li>
-                            <li><strong>Panacea Bio Tech Ltd</strong></li>
-                            <li><strong>Serdia Pharmaceuticals India</strong></li>
-                            <li><strong>Systopic Laboratories</strong></li>
-                            <li><strong>Unichem Laboratories</strong></li>
-                            <li><strong>Wockhardt Ltd</strong></li>
-                            <li><strong>Zydus Cadila Ltd</strong></li>
-                        </ul>
-
+                          <div class="row">
+                            <div class="col-left">
+                              <ul class="custom-bullet-list">
+                                <li><strong>Abbott India Limited</strong></li>
+                                <li><strong>Alcon Laboratories India</strong></li>
+                                <li><strong>Alembic Pharmaceuticals Ltd</strong></li>
+                                <li><strong>Alkem Laboratories</strong></li>
+                                <li><strong>Allergan India</strong></li>
+                                <li><strong>Aristo</strong></li>
+                                <li><strong>Astra Zeneca</strong></li>
+                                <li><strong>Bayer India Ltd</strong></li>
+                                <li><strong>Cadila Pharmaceuticals Ltd</strong></li>
+                                <li><strong>Cipla Ltd</strong></li>
+                                <li><strong>Crosslands Ranbaxy Laboratories Ltd</strong></li>
+                                <li><strong>Dr. Reddy's Laboratories Ltd</strong></li>
+                                <li><strong>FDC Limited</strong></li>
+                                <li><strong>Fulford India Ltd.</strong></li>
+                                <li><strong>Galderma India</strong></li>
+                                <li><strong>Glaxo India Ltd</strong></li>
+                              </ul>
+                            </div>
+                            <div class="col-right">
+                              <ul class="custom-bullet-list">
+                                <li><strong>Glenmark Pharma Ltd</strong></li>
+                                <li><strong>Intas Pharmaceuticals Ltd</strong></li>
+                                <li><strong>Ipca Laboratories Ltd</strong></li>
+                                <li><strong>Lupin Ltd</strong></li>
+                                <li><strong>Macleods Pharmaceuticals Ltd</strong></li>
+                                <li><strong>Mankind Pharma</strong></li>
+                                <li><strong>Merck India</strong></li>
+                                <li><strong>MSD Pharmaceuticals India</strong></li>
+                                <li><strong>Novartis India Ltd</strong></li>
+                                <li><strong>Organon India Ltd</strong></li>
+                                <li><strong>Pfizer India Ltd</strong></li>
+                                <li><strong>Panacea Bio Tech Ltd</strong></li>
+                                <li><strong>Serdia Pharmaceuticals India</strong></li>
+                                <li><strong>Systopic Laboratories</strong></li>
+                                <li><strong>Unichem Laboratories</strong></li>
+                                <li><strong>Wockhardt Ltd</strong></li>
+                                <li><strong>Zydus Cadila Ltd</strong></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <br><br>
+                          <div class="row justify-content-between">
+                            <div class="col-lg-2 col-md-2 col-4">
+                              <div class="item">
+                                <img src="assets/images/astrazenca.png" alt="">
+                              </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-4">
+                              <div class="item">
+                                <img src="assets/images/cipla.png" alt="">
+                              </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-4">
+                              <div class="item">
+                                <img src="assets/images/glaxo.png" alt="">
+                              </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-4">
+                              <div class="item">
+                                <img src="assets/images/intas3.png" alt="">
+                              </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-4">
+                              <div class="item">
+                                <img src="assets/images/lupin.png" alt="">
+                              </div>
+                            </div>
+                          </div>
+                          <br><br>
+                          <div class="row justify-content-between">
+                            <div class="col-lg-2 col-md-2 col-4">
+                              <div class="item">
+                                <img src="assets/images/systopic.jpeg" alt="">
+                              </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-4">
+                              <div class="item">
+                                <img src="assets/images/zyadus.jpeg" alt="">
+                              </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-4">
+                              <div class="item">
+                                <img src="assets/images/alkem.png" alt="">
+                              </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-4">
+                              <div class="item">
+                                <img src="assets/images/novartis.jpeg" alt="">
+                              </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-4">
+                              <div class="item">
+                                <img src="assets/images/merck.jpeg" alt="">
+                              </div>
+                            </div>
+                          </div>
                       </p>
                     </div>
             </div>
