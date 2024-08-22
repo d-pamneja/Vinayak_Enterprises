@@ -28,7 +28,7 @@
     <?php include('./shared/header.php'); ?>
     <!-- /Header -->
 
-    <div class="page-heading header-text">
+    <div class="page-heading-exp header-text">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

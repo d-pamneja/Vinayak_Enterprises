@@ -4,8 +4,6 @@
             <div class="col-lg-4">
                 <div class="left-image">
                     <img src="assets/images/puneet_client1.jpeg" alt="">
-                    <a href="property-details.html"><img src="assets/images/featured-icon.png" alt=""
-                            style="max-width: 60px; padding: 0px;"></a>
                 </div>
             </div>
             <div class="col-lg-8">
@@ -24,7 +22,7 @@
                             <div class="testi-des">
                                 <div class="peopl align-self">
                                     <h3>Puneet Kharbanda</h3>
-                                    <p class="indentity">Director</p>
+                                    <p class="indentity">Proprietor</p>
                                 </div>
                             </div>
                         </div>

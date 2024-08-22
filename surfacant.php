@@ -28,12 +28,12 @@
     <?php include('./shared/header.php'); ?>
     <!-- /Header -->
 
-    <div class="page-heading header-text">
+    <div class="page-heading-surf header-text">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <span class="breadcrumb"><a href="index.php">Home</a> / <a href="surfacant.php">Surfacant</a></span>
-                    <h3>Surfacant</h3>
+                    <span class="breadcrumb"><a href="index.php">Home</a> / <a href="surfacant.php">Surfactants</a></span>
+                    <h3>Surfactants</h3>
                 </div>
             </div>
         </div>
@@ -48,7 +48,7 @@
             <div class="row">
             <div class="col-lg-6">
                     <div class="main-image">
-                        <img src="assets/images/surfacant-page-banner-2.jpeg" alt="" style="width : 700px; height: 570px;">
+                        <img src="assets/images/surf1.jpeg" alt="" style="width : 700px; height: 570px;">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -71,10 +71,25 @@
                 </div>
                 <div class="main-content">
                   <br><br>
-                  Our operations, particularly concentrated in North India, a region dominant in agriculture, allow us to reach a broad and varied customer base. Our dedicated team, led by Mr. Ankit Gulati, a graduate from NIT, has made significant strides in marketing and selling Agro Surfactants to the industry. Their untiring efforts have resulted in numerous awards and recognitions over the years, further establishing our credibility in the marketplace.
+                  Our operations, particularly concentrated in North India, a region dominant in agriculture, allow us to reach a broad and varied customer base. Our dedicated team has made significant strides in marketing and selling Agro Surfactants to the industry. Their untiring efforts have resulted in numerous awards and recognitions over the years, further establishing our credibility in the marketplace.
                   <br><br>
                   Our journey has been enriched by synergistic relationships with key industry players, which have served to enhance our capabilities and reach. At the heart of these relationships lies our commitment to continuous improvement and forward-thinking. We believe that the dynamism of the surfactant industry necessitates a constant revaluation of strategies and a proactive approach to collaborations.
                   <br><br>
+                  <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="item">
+                                <img src="assets/images/surf2.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="item">
+                                <img src="assets/images/surf3.jpeg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br><br>
                   Today, we are at a pivotal point where exciting new opportunities are emerging. With our strong market presence, in-depth industry knowledge, and strategic relationships, we are perfectly positioned to capitalize on these opportunities.
                   <br><br>
                   At Vinayak Enterprises, we remain committed to our goal of delivering the highest quality surfactants to our customers. As we continue to navigate the dynamic landscape of this industry, we look forward to a future filled with further success, innovation, and growth. Our Surfactant Division is not just a part of our business; it's a testament to our vision, resilience, and the value we provide to our customers and the industry as a whole.

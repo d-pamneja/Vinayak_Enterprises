@@ -26,7 +26,7 @@
     <?php include ('./shared/header.php'); ?>
     <!-- /Header -->
 
-    <div class="page-heading header-text">
+    <div class="page-heading-main header-text">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -47,6 +47,26 @@
                   <br><br>
                   We understand that a fulfilling career is not just about working hard but also about continuous learning and development. We provide ample opportunities for our employees to broaden their horizons, improve their skills, and take on new challenges. Whether you're a seasoned professional or a recent graduate, Vinayak Enterprises offers a variety of roles across our various divisions. We invite individuals who have a strong desire to make an impact, to join us in our journey of growth.
                   <br><br>
+                  <div class="container">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <div class="item">
+                                    <img src="assets/images/career1.jpeg" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="item">
+                                    <img src="assets/images/career2.jpeg" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="item">
+                                    <img src="assets/images/career3.jpeg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                   </div>
+                   <br><br>
                   As an employer, Vinayak Enterprises endeavors to attract the best and most talented people by providing excellent development opportunities, a modern working environment, and competitive compensation in the industry. To explore available opportunities and become part of our growing team, we invite you to send your CV to our HR Team. We look forward to meeting you and exploring how we can succeed together.
                   <br><br>
                   Build your future with Vinayak Enterprises - where your career can flourish, and where you can truly make a difference.
@@ -60,7 +80,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div id="map">
-                        <img src="assets/images/export-page-banner-1.jpeg" alt="" style="width : 750px; height: 510px;">
+                        <img src="assets/images/career_banner.jpeg" alt="" style="width : 750px; height: 510px;">
                     </div>
                     <div class="row">
                         <div class="col-lg-6">

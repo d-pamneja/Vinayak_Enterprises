@@ -2,22 +2,22 @@
     <div class="owl-carousel owl-banner">
         <div class="item item-1">
             <div class="header-text">
-                <h2>Hurry!<br>Get the Best Villa for you</h2>
+                <h2>Innovate with Us!<br>Leading the Pharma Revolution</h2>
             </div>
         </div>
         <div class="item item-2">
             <div class="header-text">
-                <h2>Be Quick!<br>Get the best villa in town</h2>
+                <h2>Grow with Us!<br>Advanced Agrochemical Solutions</h2>
             </div>
         </div>
         <div class="item item-3">
             <div class="header-text">
-                <h2>Act Now!<br>Get the highest level penthouse</h2>
+                <h2>Transform with Us!<br>Pioneering Surfactant Technologies</h2>
             </div>
         </div>
         <div class="item item-4">
             <div class="header-text">
-                <h2>Act Now!<br>Get the highest level penthouse</h2>
+                <h2>Expand with Us!<br>Global Export Excellence</h2>
             </div>
         </div>
     </div>

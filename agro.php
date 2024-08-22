@@ -27,12 +27,12 @@
     <?php include ('./shared/header.php'); ?>
     <!-- /Header -->
 
-    <div class="page-heading header-text">
+    <div class="page-heading-agro header-text">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <span class="breadcrumb"><a href="index.php">Home</a> / <a href="agro.php">Agro</a></span>
-                    <h3>Agro</h3>
+                    <span class="breadcrumb"><a href="index.php">Home</a> / <a href="agro.php">Agrochemicals</a></span>
+                    <h3>Agrochemicals</h3>
                 </div>
             </div>
         </div>
@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="main-image">
-                        <img src="assets/images/agro-page-banner-1.jpeg" alt="" style="width : 700px; height: 570px;">
+                        <img src="assets/images/agro-banner-11.jpeg" alt="" style="width : 700px; height: 570px;">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -73,11 +73,11 @@
                           With over two decades of experience as Liaison Agents for North India, we have honed our skills in marketing and selling Technical Grade Agrochemicals. 
                           <br><br>Our long-term associations with companies such as Nagarjuna Agrichem Ltd, Bayer India Ltd, Bharat Rasayan Ltd, and Crystal Phosphates Ltd, have enabled us to perfect our craft and carve a niche for ourselves in the industry.
                           <br><br>
-                          <h3>Associations</h3>
+                          <h3>Our Associations</h3>
                           <br>
                           Our Agrochemical Division is proud to be closely associated with the following top agrochemical companies for marketing and selling their Technical Grade Pesticides in North India:
                           <br><br>
-                          <ul>
+                          <ul class="custom-bullet-list">
                             <li>
                               <strong>Nagarjuna Agrichem Ltd.</strong>
                             </li>
@@ -92,9 +92,11 @@
                             </li>
                           </ul>
                         <br>
+                        <h3>Our Mentors & Advisors</h3>
+                        <br>
                         In our journey, we have been fortunate to have guidance from prominent industry leaders such as:
                         <br><br>
-                          <ul>
+                          <ul class="custom-bullet-list">
                             <li>
                               <strong>Sh. G.S.Raju</strong>, Managing Director, Deccan Fine Chemicals
                             </li>

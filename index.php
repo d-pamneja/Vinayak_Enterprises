@@ -32,12 +32,15 @@
     <!-- Grid1 -->
     <?php include('./home/grid1.php'); ?>
     <!-- /Grid1 -->
+    <!-- Grid7 -->
+    <?php include('./home/grid6.php'); ?>
+    <!-- /Grid7 -->
     <!-- Grid3 -->
     <?php include('./home/grid3.php'); ?>
     <!-- /Grid3 -->
-    <!-- Grid3 -->
-    <?php include('./home/grid6.php'); ?>
-    <!-- /Grid3 -->
+    <!-- Grid6 -->
+    <?php include('./home/grid7.php'); ?>
+    <!-- /Grid6 -->
     <!-- Footer -->
     <?php include('./shared/footer.php'); ?>
     <!-- /Footer -->
@@ -51,6 +54,20 @@
     <script src="assets/js/counter.js"></script>
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/active.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script>
+        $(".owl-carousel").owlCarousel({
+            loop: false,          
+            rewind: true,                
+            autoplay: true,              
+            autoplayTimeout: 3000,       
+            autoplayHoverPause: true,    
+            items: 1,                    
+            animateOut: 'fadeOut',       
+            dots: true                   
+        });
+    </script>
+
 
 </body>
 </html>
