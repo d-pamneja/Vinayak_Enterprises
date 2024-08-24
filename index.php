@@ -47,25 +47,28 @@
 
     <!-- Scripts -->
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
+    <!-- <script src="vendor/jquery/jquery.min.js"></script> -->
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/isotope.min.js"></script>
     <script src="assets/js/owl-carousel.js"></script>
     <script src="assets/js/counter.js"></script>
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/active.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
     <script>
         $(".owl-carousel").owlCarousel({
-            loop: false,          
-            rewind: true,                
-            autoplay: true,              
-            autoplayTimeout: 3000,       
-            autoplayHoverPause: true,    
-            items: 1,                    
-            animateOut: 'fadeOut',       
-            dots: true                   
-        });
+        loop: false,          
+        rewind: true,                
+        autoplay: true,              
+        autoplayTimeout: 3000,       
+        autoplayHoverPause: true,    
+        items: 1,                        
+        dots: true,                  
+        nav: true,                   
+        navText: ["<i class='fa fa-chevron-left'></i>", "<i class='fa fa-chevron-right'></i>"]
+    });
+
     </script>
 
 

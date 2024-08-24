@@ -48,7 +48,7 @@
             <div class="row">
             <div class="col-lg-6">
                     <div class="main-image">
-                        <img src="assets/images/surf1.jpeg" alt="" style="width : 700px; height: 570px;">
+                        <img src="assets/images/surf1.jpeg" alt="" style="margin-top:65px;">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -79,12 +79,12 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-6">
                             <div class="item">
-                                <img src="assets/images/surf2.jpeg" alt="">
+                                <img src="assets/images/surf2.jpeg" alt="" style="margin-top:65px;">
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <div class="item">
-                                <img src="assets/images/surf3.jpeg" alt="">
+                                <img src="assets/images/surf3.jpeg" alt="" style="margin-top:65px;">
                             </div>
                         </div>
                     </div>

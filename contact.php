@@ -32,7 +32,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <span class="breadcrumb"><a href="#">Home</a> / Contact Us</span>
+                    <span class="breadcrumb"><a href="index.php">Home</a> / Contact Us</span>
                     <h3>Contact Us</h3>
                 </div>
             </div>
@@ -53,13 +53,13 @@
                         <div class="col-lg-12">
                             <div class="item phone">
                                 <img src="assets/images/phone-icon.png" alt="" style="max-width: 52px;">
-                                <h6>07947429300<br><span>Phone Number</span></h6>
+                                <h6><a href="tel:07947429300" style="text-decoration: none; color: inherit;">07947429300</a><br><span>Phone Number</span></h6>
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="item email">
                                 <img src="assets/images/email-icon.png" alt="" style="max-width: 52px;">
-                                <h6>vinayak@gmail.com<br><span>Business Email</span></h6>
+                                <h6><a href="mailto:vinayak@gmail.com" style="text-decoration: none; color: inherit;">vinayak@gmail.com</a><br><span>Business Email</span></h6>
                             </div>
                         </div>
                     </div>
@@ -101,6 +101,8 @@
                             </div>
                         </div>
                     </form>
+                    <br><br>
+                    <div id="response"></div>
                 </div>
                 <div class="col-lg-12">
                     <div id="map">
@@ -131,22 +133,20 @@
     <script>
         $(document).ready(function() {
             $('#contact-form').on('submit', function(event) {
-                event.preventDefault(); // Prevent the default form submission
+                event.preventDefault(); 
 
-                var formData = $(this).serialize(); // Serialize form data
+                var formData = $(this).serialize(); 
 
                 $.ajax({
                     type: 'POST',
-                    url: 'sendQuery.php', // Your PHP script to handle the request
+                    url: 'sendQuery.php', 
                     data: formData,
                     success: function(response) {
-                        // Display the server response in the #response div
                         $('#response').html('<div class="success">' + response + '</div>')
                             .show();
 
                     },
                     error: function(xhr, status, error) {
-                        // Display an error message if something went wrong
                         $('#response').html('<div class="error">An error occurred: ' + error +
                             '</div>').show();
                     }

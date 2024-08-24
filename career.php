@@ -56,7 +56,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6">
                                 <div class="item">
-                                    <img src="assets/images/career2.jpeg" alt="">
+                                    <img src="assets/images/career2.jpeg" class="careers" alt="" >
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6">
@@ -78,9 +78,9 @@
     <div class="contact-content">
         <div class="container">
             <div class="row">
-                <div class="col-lg-7">
+                <div class="col-lg-12">
                     <div id="map">
-                        <img src="assets/images/career_banner.jpeg" alt="" style="width : 750px; height: 510px;">
+                        <img src="assets/images/career_banner.jpeg" alt="" style="margin-top:65px;">
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
@@ -97,44 +97,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-5">
-                    <form id="contact-form" action="" method="post">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <fieldset>
-                                    <label for="name">Full Name</label>
-                                    <input type="name" name="name" id="name" placeholder="Your Name..." autocomplete="on"
-                                        required>
-                                </fieldset>
-                            </div>
-                            <div class="col-lg-12">
-                                <fieldset>
-                                    <label for="email">Email Address</label>
-                                    <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*"
-                                        placeholder="Your E-mail..." required="">
-                                </fieldset>
-                            </div>
-                            <div class="col-lg-12">
-                                <fieldset>
-                                    <label for="cv">CV</label>
-                                    <input type="file" name="cv" id="cv" accept=".pdf,.doc,.docx"
-                                        placeholder="Your E-mail..." required=""> 
-                                </fieldset>
-                            </div>
-                            <div class="col-lg-12">
-                                <fieldset>
-                                    <label for="message">What makes you a good fit for our organisation?</label>
-                                    <textarea name="message" id="message" placeholder="Your Message"></textarea>
-                                </fieldset>
-                            </div>
-                            <div class="col-lg-12">
-                                <fieldset>
-                                    <button type="submit" id="form-submit" class="orange-button">Send Message</button>
-                                </fieldset>
-                            </div>
-                        </div>
-                    </form>
                 </div>
             </div>
         </div>
@@ -153,7 +115,6 @@
     <script src="assets/js/counter.js"></script>
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/active.js"></script>
-
 
 </body>
 

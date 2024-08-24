@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="left-image">
-                    <img src="assets/images/puneet_client1.jpeg" alt="">
+                    <img src="assets/images/puneet_client1.jpeg" alt="" class="quote-pics">
                 </div>
             </div>
             <div class="col-lg-8">
