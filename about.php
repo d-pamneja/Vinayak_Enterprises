@@ -121,131 +121,162 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/puneet.jpeg" alt="Puneet Kharbanda">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/puneet.jpeg" alt="Puneet Kharbanda">
+                        </div>
+                        <h5 class="team-names">Mr. Puneet Kharbanda</h5>
+                        <h6 class="team-designations">Proprietor</h6>
                     </div>
-                    <h5>Mr. Puneet Kharbanda</h5>
-                    <h6>Proprietor</h6>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/shalini.jpeg" alt="Shalini Kharbanda">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/shalini.jpeg" alt="Shalini Kharbanda">
+                        </div>
+                        <h5 class="team-names">Ms. Shalini Kharbanda</h5>
+                        <h6 class="team-designations" class="team-designations">Head - Admin & HR</h6>
                     </div>
-                    <h5>Ms. Shalini Kharbanda</h5>
-                    <h6>Head - Admin & HR</h6>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/MK.png" alt="Mr. Maurayan Kharbanda">
+                    <div class="team">
+                        <div class="item">
+                                <img src="assets/images/MK.png" alt="Mr. Maurayan Kharbanda">
+                        </div>
+                        <h5 class="team-names">Mr. Maurayan Kharbanda</h5>
+                        <h6 class="team-designations">Director, Vinayak Multinationals AUS Pty. Ltd.</h6>
                     </div>
-                    <h5>Mr. Maurayan Kharbanda</h5>
-                    <h6>Director, Vinayak Multinationals AUS Pty. Ltd.</h6>
+                </div>
+            <br><br>
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/chahuan.jpeg" alt="Mr. S.S.Chauhan">
+                        </div>
+                        <h5 class="team-names">Mr. S.S.Chauhan</h5>
+                        <h6 class="team-designations">Head - Finance</h6>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/atul.jpeg" alt="Mr. Atul Arora">
+                        </div>
+                        <h5 class="team-names">Mr. Atul Arora</h5>
+                        <h6 class="team-designations">Head - Purchase</h6>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/ishita.png" alt="Ms. Itisha Chawla">
+                        </div>
+                        <h5 class="team-names">Ms. Itisha Chawla</h5>
+                        <h6 class="team-designations">Head, Senior Head ICT Business Analyst</h6>
+                    </div>
                 </div>
             </div>
             <br><br>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/chahuan.jpeg" alt="Mr. S.S.Chauhan">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/sachinArora.jpeg" alt="Mr. Sachin Arora">
+                        </div>
+                        <h5 class="team-names">Mr. Sachin Arora</h5>
+                        <h6 class="team-designations">Head, Accounts & H.R.</h6>
                     </div>
-                    <h5>Mr. S.S.Chauhan</h5>
-                    <h6>Head - Finance</h6>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/atul.jpeg" alt="Mr. Atul Arora">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/hina.jpeg" alt="Ms. Hina">
+                        </div>
+                        <h5 class="team-names">Ms. Hina</h5>
+                        <h6 class="team-designations">Head, Marketing</h6>
                     </div>
-                    <h5>Mr. Atul Arora</h5>
-                    <h6>Head - Purchase</h6>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/ishita.png" alt="Ms. Itisha Chawla">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/ppSingh.jpeg" alt="Mr. P.P. Singh">
+                        </div>
+                        <h5 class="team-names">Mr. P.P. Singh</h5>
+                        <h6 class="team-designations">Head, Sales</h6>
                     </div>
-                    <h5>Ms. Itisha Chawla</h5>
-                    <h6>Head, Senior Head ICT Business Analyst</h6>
-                </div>
-            </div>
-            <br><br>
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/sachinArora.jpeg" alt="Mr. Sachin Arora">
-                    </div>
-                    <h5>Mr. Sachin Arora</h5>
-                    <h6>Head, Accounts & H.R.</h6>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/hina.jpeg" alt="Ms. Hina">
-                    </div>
-                    <h5>Ms. Hina</h5>
-                    <h6>Head, Marketing</h6>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/ppSingh.jpeg" alt="Mr. P.P. Singh">
-                    </div>
-                    <h5>Mr. P.P. Singh</h5>
-                    <h6>Head, Sales</h6>
                 </div>
             </div>
             <br><br>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/makol.jpeg" alt="Mr. Ashwani Makol">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/makol.jpeg" alt="Mr. Ashwani Makol">
+                        </div>
+                        <h5 class="team-names">Mr. Ashwani Makol</h5>
+                        <h6 class="team-designations">Head, Godowns</h6>
                     </div>
-                    <h5>Mr. Ashwani Makol</h5>
-                    <h6>Head, Godowns</h6>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/deepali.jpeg" alt="Ms. Deepali">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/deepali.jpeg" alt="Ms. Deepali">
+                        </div>
+                        <h5 class="team-names">Ms. Deepali</h5>
+                        <h6 class="team-designations">Head, Debtor Collection</h6>
                     </div>
-                    <h5>Ms. Deepali</h5>
-                    <h6>Head, Debtor Collection</h6>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/sonia.jpeg" alt="Ms. Sonia">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/sonia.jpeg" alt="Ms. Sonia">
+                        </div>
+                        <h5 class="team-names">Ms. Sonia</h5>
+                        <h6 class="team-designations">Head, Purchase & Sale Return</h6>
                     </div>
-                    <h5>Ms. Sonia</h5>
-                    <h6>Head, Purchase & Sale Return</h6>
-                </div>
-            </div>
-            <br><br>
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/deepakArora.jpeg" alt="Mr. Deepak Arora">
-                    </div>
-                    <h5>Mr. Deepak Arora</h5>
-                    <h6>Head, E&B</h6>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/vinaySaini.jpeg" alt="Mr. Vinay Saini">
-                    </div>
-                    <h5>Mr. Vinay Saini</h5>
-                    <h6>In-charge, Logistics</h6>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/mamta.jpeg" alt="Ms. Mamta">
-                    </div>
-                    <h5>Ms. Mamta</h5>
-                    <h6>In-charge, Claims settlement</h6>
                 </div>
             </div>
             <br><br>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img src="assets/images/harpreet.jpeg" alt="Ms. Harpreet">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/deepakArora.jpeg" alt="Mr. Deepak Arora">
+                        </div>
+                        <h5 class="team-names">Mr. Deepak Arora</h5>
+                        <h6 class="team-designations">Head, E&B</h6>
                     </div>
-                    <h5>Ms. Harpreet</h5>
-                    <h6>In-charge, Billing</h6>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/vinaySaini.jpeg" alt="Mr. Vinay Saini">
+                        </div>
+                        <h5 class="team-names">Mr. Vinay Saini</h5>
+                        <h6 class="team-designations">In-charge, Logistics</h6>
+                    </div>  
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/mamta.jpeg" alt="Ms. Mamta">
+                        </div>
+                        <h5 class="team-names">Ms. Mamta</h5>
+                        <h6 class="team-designations">In-charge, Claims settlement</h6>
+                    </div>
+                </div>
+            </div>
+            <br><br>
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="team">
+                        <div class="item">
+                            <img src="assets/images/harpreet.jpeg" alt="Ms. Harpreet">
+                        </div>
+                        <h5 class="team-names">Ms. Harpreet</h5>
+                        <h6 class="team-designations">In-charge, Billing</h6>
+                    </div>
                 </div>
             </div>
             
