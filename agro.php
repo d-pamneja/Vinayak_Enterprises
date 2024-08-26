@@ -51,6 +51,11 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
+                    <div class="main-image">
+                        <img src="assets/images/agro_banner_3.jpeg" alt="" style="margin-top:65px;">
+                    </div>
+                </div>
+                <!-- <div class="col-lg-6">
                   <div class="info-table">
                     <ul>
                         <li>
@@ -67,9 +72,10 @@
                         </li>
                     </ul>
                   </div>
-                </div>
+                </div> -->
                 <div class="main-content">
-                      <br><br>Our founder, <strong>Mr. Puneet Kharbanda</strong>, has a strong affinity for chemistry and has infused this passion into the very core of our Agrochemical division. His father, Dr. Shanti Sarup, a President award-winning Technocrat Scientist, has been a guiding light in our journey, helping us diversify into Agrochemicals right from our inception.
+                      <br><br>Our founder, <strong>Mr. Puneet Kharbanda</strong>, has a strong affinity for chemistry and has infused this passion into the very core of our Agrochemical division. 
+                      <br><br>His father, <strong>Dr. Shanti Sarup</strong>, a President award-winning Technocrat Scientist, has been a guiding light in our journey, helping us diversify into Agrochemicals right from our inception.
                           With over two decades of experience as Liaison Agents for North India, we have honed our skills in marketing and selling Technical Grade Agrochemicals. 
                           <br><br>Our long-term associations with companies such as Nagarjuna Agrichem Ltd, Bayer India Ltd, Bharat Rasayan Ltd, and Crystal Phosphates Ltd, have enabled us to perfect our craft and carve a niche for ourselves in the industry.
                           <br><br>

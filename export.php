@@ -71,6 +71,8 @@
                 </div>
                 <div class="main-content">
                   <br><br>
+                  Managed by <strong>Mauryan Kharbanda</strong>, our dynamic and visionary director, <a href="https://vinayakmultinationals.com.au/" style="text-decoration: none; color: inherit;">Vinayak Multinational</a> represents the new wave of leadership within our organization. As the new young blood driving our expansion efforts from Australia, Mauryan is instrumental in growing our exports division and business.
+                  <br><br>
                   Recognizing this potential, we established Vinayak Multinational, our Australian subsidiary, to better serve this promising market. As of today, we have successfully registered 16 products in Australia and have many more in the pipeline. Our approach to Australia is reflective of our overall strategy for global expansion - thorough market research, attention to regulatory standards, and a commitment to delivering quality products. We have been meticulous in understanding the Australian market's unique characteristics and needs, enabling us to tailor our offerings effectively.
                   <br><br>
                   As we continue to penetrate the Australian market, we are on the cusp of a major growth phase. Our strategic positioning, coupled with our robust product portfolio, has poised us to capture a significant market share. We are not just breaking into the Australian market; we are poised for a breakout.
