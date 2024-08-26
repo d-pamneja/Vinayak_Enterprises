@@ -8,10 +8,11 @@
             </div>
             <div class="col-lg-8">
                 <div class="container">
+                <br>
                 <div class="testimonial">
                             <blockquote>
                                 <q>
-                                At Vinayak Enterprises, we pride ourselves on being a cornerstone in the pharmaceutical industry, with a legacy built on trust, innovation, and a commitment to excellence. 
+                                We pride ourselves on being a cornerstone in the pharmaceutical industry, with a legacy built on trust, innovation, and a commitment to excellence. 
                                 Over the years, we have developed an esteemed clientele who rely on our superior delivery services and unwavering dedication to quality. 
                                 Our journey is one of continuous growth, driven by a vision to not only meet but exceed the expectations of our partners and customers. 
                                 <br><br>

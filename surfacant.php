@@ -64,7 +64,7 @@
                         </li>
                         <li>
                             <img src="assets/images/growth-icon.png" alt="" style="max-width: 52px;">
-                            <h4>Focus on Innovation & Future Growth<br><span>We embrace a forward-thinking approach, constantly adapting to market trends and investing in research and development.</span></h4>
+                            <h4>Focus on Innovation & Future Growth<br><span>We embrace a forward-thinking approach, constantly adapting to market trends.</span></h4>
                         </li>
                     </ul>
                   </div>

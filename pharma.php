@@ -33,8 +33,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <span class="breadcrumb"><a href="index.php">Home</a> / <a href="pharma.php">Pharma</a></span>
-                    <h3>Pharma</h3>
+                    <span class="breadcrumb"><a href="index.php">Home</a> / <a href="pharma.php">Pharmaceuticals</a></span>
+                    <h3>Pharmaceuticals</h3>
                 </div>
             </div>
         </div>
