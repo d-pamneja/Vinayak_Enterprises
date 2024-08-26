@@ -11,11 +11,12 @@
                 <div class="testimonial">
                             <blockquote>
                                 <q>
-                                    In the dynamic landscape of international business, our young and passionate team is dedicated to providing top-tier consultancy services to help you navigate the complexities of the global arena. 
-                                    We specialize in guiding businesses through the unique challenges of international markets, ensuring you are well-equipped to succeed. 
-                                    We believe in the power of collaboration, innovation, and unwavering commitment to our clients' success. 
-                                    Together, we're not just shaping the future of these industries; we're redefining what's possible for a healthier, more sustainable world. 
-                                    Let us be your trusted partner in overcoming challenges and achieving your business goals on a global scale.
+                                At Vinayak Enterprises, we pride ourselves on being a cornerstone in the pharmaceutical industry, with a legacy built on trust, innovation, and a commitment to excellence. 
+                                Over the years, we have developed an esteemed clientele who rely on our superior delivery services and unwavering dedication to quality. 
+                                Our journey is one of continuous growth, driven by a vision to not only meet but exceed the expectations of our partners and customers. 
+                                <br><br>
+                                We are more than just a service provider; we are a transformative force in the pharma industry, focused on pioneering solutions that set new benchmarks. 
+                                As we look to the future, our goal is to push the boundaries of what's possible, leading the way in shaping a healthier, more sustainable world for generations to come.
                                 </q>
                             </blockquote>
                             <br>
