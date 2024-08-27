@@ -141,7 +141,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="team">
                         <div class="item">
-                                <img src="assets/images/MK.png" alt="Mr. Maurayan Kharbanda">
+                                <img src="assets/images/MK_Client.jpeg" alt="Mr. Maurayan Kharbanda">
                         </div>
                         <h5 class="team-names">Mr. Maurayan Kharbanda</h5>
                         <h6 class="team-designations">Director, Vinayak Multinationals AUS Pty. Ltd.</h6>
